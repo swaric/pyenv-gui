@@ -1,2 +1,2 @@
 # pyenv-gui
-Unofficial pyenv-gui tool using tinter
+Unofficial pyenv-gui tool using tkinter
