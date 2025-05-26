@@ -92,6 +92,4 @@ The application serves as a graphical front-end to the `pyenv` command-line tool
 
 Feel free to fork this project, submit issues, or suggest improvements!
 
-## License
 
-(You can add a license here, e.g., MIT License)
